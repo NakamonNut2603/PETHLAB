@@ -1,0 +1,15 @@
+// ignore_for_file: file_names
+
+import 'package:pethlab/forum.dart';
+
+List<Forum> forums = [
+  Forum('How Much Daily Exercise Does a Puppy Need?',
+  'You might have noticed that your puppy gets a case of the “zoomies” several times a day. The zoomies are easily identified, and symptoms include madly racing around the house, followed by collapsing into a puppy pile, preferably in your lap. Puppies generally have more energy than adult dogs and so require more exercise in short bursts — like the zoomies. Since puppies are constantly growing, including several short walks or play sessions throughout the day is a safer choice than going for one really long walk, as this can be too hard on your puppy’s developing body. Ultimately, every puppy is different, and the more time you spend with your pup the more you will learn about how much exercise she needs to keep her happy — and you sane! Talk to your vet or breeder about how much daily activity is appropriate for your puppy, and don’t forget that exercise is a great way to train and socialize your new dog.',
+  'assets/f1.jpg'),
+  Forum('How long can your dog comfortably exercise at one time?',
+  'This is definitely a question that is best answered with the help of your veterinarian. He or she is well-equipped to evaluate your dog’s starting fitness level. It is important to evaluate your dog for any underlying metabolic or musculoskeletal issues that could have an impact on physical activity. For instance, the presence of pain anywhere in the body will influence both the comfort and safety of a canine physical fitness plan. Deficient thyroid function (hypothyroidism) undermines energy and stamina. Undiagnosed underlying heart disease can prove dangerous.',
+  'assets/f2.jpg'),
+  Forum('How can I exercise my cat?',
+  'In the wild, most of a cat’s exercise comes from hunting, where they chase and pounce – the best way to recreate this behaviour is by playing with them. Here are our top tips for playing with your feline friend:\n\t- Most cats have a preference in toys, so to begin with it’s best to give your cat a variety. Once you’ve established which toys they like best, have one or two out at a time and swap them every few days to keep them interested – playing with the same toy all the time can get a bit dull.\n\t- Although it’s tempting, especially with kittens, it’s not a good idea to use your fingers or toes for play – this will only teach them to grab and bite them, which can be pretty painful!\n\t- Cats are most active at the beginning and end of the day (when they naturally hunt in the wild), so this is a good time to play with them.\n\t- Play in short sessions and give your cat time to rest in-between. Never force them to play if they don’t want to, and stop if they lose enthusiasm.',
+  'assets/f3.jpg')
+];
